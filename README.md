@@ -94,12 +94,6 @@ La regla general es **conservar los datos dudosos y marcarlos**, en lugar de bor
 - Los clientes se cuentan con `customer_unique_id`, porque el identificador por pedido cuenta de más a 3,345 clientes que compraron varias veces.
 - El monto facturado es el precio más el flete, y el monto cobrado es la suma de los pagos.
 
-## Cómo repetir el análisis
-
-1. Descargar el dataset desde Kaggle (los archivos no se incluyen en este repositorio).
-2. En Databricks, subir los 9 archivos CSV al Volume `olist_proyecto.bronce.raw`.
-3. Ejecutar los notebooks en orden: `01`, `02` y `03`.
-
 ## Herramientas
 
 Databricks (Unity Catalog), Python, SQL, Power BI y Power Automate.
