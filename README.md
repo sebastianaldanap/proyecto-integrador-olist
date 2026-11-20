@@ -100,12 +100,6 @@ La regla general es **conservar los datos dudosos y marcarlos**, en lugar de bor
 2. En Databricks, subir los 9 archivos CSV al Volume `olist_proyecto.bronce.raw`.
 3. Ejecutar los notebooks en orden: `01`, `02` y `03`.
 
-## Equipo
-
-| Integrante | Fase |
-|---|---|
-| Sebastian Aldana | EDA y Calidad de Datos (Python), Automatización y Alertas (Power Automate) |
-
 ## Herramientas
 
 Databricks (Unity Catalog), Python, SQL, Power BI y Power Automate.
