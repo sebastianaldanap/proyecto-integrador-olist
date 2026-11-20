@@ -1,4 +1,4 @@
-# Proyecto integrador Data Analyst: pedidos de Olist
+# Proyecto integrador Data Analyst: análisis del dataset público Brazilian E-Commerce
 
 Proyecto de análisis de datos de principio a fin: se parte de 9 archivos CSV de pedidos de comercio electrónico y se avanza hasta un tablero de control con indicadores y una alerta automática.
 

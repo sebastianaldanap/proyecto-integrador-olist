@@ -1,4 +1,4 @@
-# Revisión de la calidad de los datos (EDA): Olist
+# Revisión de la calidad de los datos (EDA): dataset público Brazilian E-Commerce
 
 **Elaborado por:** Sebastian Aldana (fase EDA y calidad de datos) · **Fecha:** 19/11/2026
 
